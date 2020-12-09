@@ -1,0 +1,24 @@
+{
+  "name": "paf-day2workshop",
+  "version": "1.0.0",
+  "description": "backend",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YanHanNg/paf-day2workshop.git"
+  },
+  "author": "NYH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YanHanNg/paf-day2workshop/issues"
+  },
+  "homepage": "https://github.com/YanHanNg/paf-day2workshop#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5",
+    "secure-env": "^1.2.0"
+  }
+}
